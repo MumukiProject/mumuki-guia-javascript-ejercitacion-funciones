@@ -1,4 +1,4 @@
-> Definí una función `sumar` que tome como argumentos dos números y devuelva la suma de ellos
+> Definí una función `sumar` que tome como argumentos dos números y devuelva la suma de ellos:
 >
 ```javascript
 ム sumar(2, 3)
