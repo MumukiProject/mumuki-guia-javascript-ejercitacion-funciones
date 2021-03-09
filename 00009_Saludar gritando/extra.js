@@ -1,3 +1,3 @@
-/*...solution[7]...*/
+/*...solution[6]...*/
 
-/*...previousSolution...*/
+/*...solution[7]...*/
