@@ -1,4 +1,4 @@
-it("Si hacemos obtenerDatosDeCiudad('Santa Fe', 545606, 'Argentina') debería retornar 'Hola Ada, un gusto conocerte'", function() {
-  let resultado = saludar('Ada')
-  assert.equal(resultado, 'Hola Ada, un gusto conocerte',`saludar('Ada') debería retornar 'Hola Ada, un gusto conocerte' pero el resultado fue ${resultado}`);
+it("Si hacemos obtenerDatosDeCiudad('Santa Fe', 545606, 'Argentina') debería retornar 'La ciudad de Santa Fe tiene una población de 545606 habitantes y está ubicada en Argentina'", function() {
+  let resultado = obtenerDatosDeCiudad('Santa Fe',545606, 'Argentina')
+  assert.equal(resultado, 'La ciudad de Santa Fe tiene una población de 545606 habitantes y está ubicada en Argentina',`obtenerDatosDeCiudad('Santa Fe',545606, 'Argentina') debería retornar 'La ciudad de Santa Fe tiene una población de 545606 habitantes y está ubicada en Argentina' pero el resultado fue ${resultado}`);
 })
