@@ -1,4 +1,4 @@
-it("Si hacemos saludar('Ada') debería retornar 'Hola Ada, un gusto conocerte'", function() {
-let resultado = saludar('Ada')
-assert.equal(resultado, 'Hola Ada, un gusto conocerte',`saludar('Ada') debería retornar 'Hola Ada, un gusto conocerte' pero el resultado fue ${resultado}`);
+it("Si hacemos saludarGritando('Ada', 'Lovelace') debería retornar ¡Hola Ada Lovelace, un gusto conocerte!", function() {
+let resultado = saludarGritando('Ada', 'Lovelace'
+assert.equal(resultado, '¡Hola Ada Lovelace, un gusto conocerte!',`saludarGritando('Ada', 'Lovelace') debería retornar '¡Hola Ada Lovelace, un gusto conocerte!' pero el resultado fue ${resultado}`);
 })
