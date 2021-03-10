@@ -1,10 +1,10 @@
 > Definí una función `obtenerCompetencia` que tome como argumentos dos strings `a` y `b` y devuelva un string con el formato `a vs. b`
 >
 ```javascript
-ム obtenerRivales('JavaScript', 'Python')
+ム obtenerCompetencia('JavaScript', 'Python')
 `JavaScript vs. Python`
-ム obtenerRivales('Coca', 'Pepsi')
+ム obtenerCompetencia('Coca', 'Pepsi')
 `Coca vs. Pepsi`
-ム obtenerRivales('Perros', 'Gatos')
+ム obtenerCompetencia('Perros', 'Gatos')
 `Perros vs. Gatos`
 ```

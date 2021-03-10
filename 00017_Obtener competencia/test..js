@@ -1,4 +1,4 @@
-it("Si hacemos obtenerCompetencia(1, 1) debería retornar 60", function() {
-  let resultado = calcularFPS(1, 1)
-  assert.equal(resultado, 60,`calcularFPS(1, 1) debería retornar 60 pero fue ${resultado}`);
+it("Si hacemos obtenerCompetencia('JavaScript', 'Python') debería retornar `JavaScript vs. Python`", function() {
+  let resultado = obtenerCompetencia('JavaScript', 'Python')
+  assert.equal(resultado, `JavaScript vs. Python`,`obtenerCompetencia('JavaScript', 'Python') debería retornar JavaScript vs. Python pero fue ${resultado}`);
 })
