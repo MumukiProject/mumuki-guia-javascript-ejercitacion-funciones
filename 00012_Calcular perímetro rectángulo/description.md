@@ -1,6 +1,8 @@
-Crear una función `calcularAreaTriangulo` que tome como argumentos el ancho y el alto de un rectángulo y devuelva su perímetro
-
+> Defini una función `calcularAreaTriangulo` que tome como argumentos el ancho y el alto de un rectángulo y devuelva su perímetro
+>
 ```javascript
-calcularPerimetroRectangulo(3.2, 5) // 16.4
-calcularPerimetroRectangulo(10, 20) // 60
+ム calcularPerimetroRectangulo(3.2, 5)
+16.4
+ム calcularPerimetroRectangulo(10, 20)
+60
 ```
