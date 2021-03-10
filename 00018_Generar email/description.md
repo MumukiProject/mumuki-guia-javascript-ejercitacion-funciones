@@ -1,4 +1,4 @@
-> Defini una función `generarEmail` que tome como argumentos dos string `usuario` y `dominio` y el un string email con el formato `usuario@dominio.com`
+> Definí una función `generarEmail` que tome como argumentos dos string `usuario` y `dominio` y el un string email con el formato `usuario@dominio.com`
 >
 ```javascript
 ム generarEmail('adalovelace', 'gmail')
