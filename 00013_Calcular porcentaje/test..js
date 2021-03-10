@@ -3,7 +3,7 @@ it("Si hacemos calcularPorcentaje(100, 15) debería retornar 15", function() {
   assert.equal(resultado, 15,`calcularPorcentaje(100, 15) debería retornar 15 pero fue ${resultado}`);
 })
 
-it("Si hacemos calcularPorcentaje(10, 50) debería retornar 5", function() {
-  let resultado = calcularPorcentaje(10, 50)
-  assert.equal(resultado, 5,`calcularPorcentaje(10, 50) debería retornar 5 pero fue ${resultado}`);
+it("Si hacemos calcularPorcentaje(200, 10) debería retornar 20", function() {
+  let resultado = calcularPorcentaje(200, 10)
+  assert.equal(resultado, 20,`calcularPorcentaje(200, 10) debería retornar 20 pero fue ${resultado}`);
 })
