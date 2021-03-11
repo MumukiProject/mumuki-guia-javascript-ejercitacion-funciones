@@ -1,4 +1,4 @@
-> Defini una función `calcularPorcentaje` que tome como argumentos un número y un porcentaje y devuelva el valor del porcentaje correspondiente al número
+> Definí una función `calcularPorcentaje` que tome como argumentos un número y un porcentaje y devuelva el valor del porcentaje correspondiente al número
 >
 ```javascript
 ム calcularPorcentaje(100, 15)
