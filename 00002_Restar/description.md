@@ -1,4 +1,4 @@
-> Defini una función `restar` que tome como argumentos dos números y devuelva la resta de ellos
+> Definí una función `restar` que tome como argumentos dos números y devuelva la resta de ellos
 >
 ```javascript
 ム restar(3, 2) 
