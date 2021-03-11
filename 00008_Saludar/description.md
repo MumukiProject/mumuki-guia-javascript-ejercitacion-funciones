@@ -1,4 +1,4 @@
->Definí una función `saludar` que tome como argumentos un nombre y devuelva un saludo que lo incluya.
+> Definí una función `saludar` que tome como argumentos un nombre y devuelva un saludo que lo incluya.
 >
 ```javascript
 ム saludar('Ada')
