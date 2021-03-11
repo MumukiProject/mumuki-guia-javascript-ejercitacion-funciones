@@ -1,4 +1,4 @@
-> Defini una función `convertirHorasEnSegundos` que tome como argumento un número de horas y devuelva la conversión a segundos de dicha cantidad de horas
+> Definí una función `convertirHorasEnSegundos` que tome como argumento un número de horas y devuelva la conversión a segundos de dicha cantidad de horas
 
 ```javascript
 ム convertirHorasEnSegundos(1)
