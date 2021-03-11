@@ -1,4 +1,4 @@
- >Definí una función `multiplicar` que tome como argumentos dos números y devuelva la multiplicación de ellos
+> Definí una función `multiplicar` que tome como argumentos dos números y devuelva la multiplicación de ellos
 >
 ```javascript
 ム multiplicar(2, 3)
