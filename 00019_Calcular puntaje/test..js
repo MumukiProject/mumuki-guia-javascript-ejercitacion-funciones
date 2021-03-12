@@ -4,7 +4,7 @@ it("Si hacemos calcularPuntaje(3, 0, 0) debería retornar 9", function() {
 })
 
 it("Si hacemos calcularPuntaje(0, 2, 1) debería retornar 20", function() {
-  let resultado = calcularPuntaje(0, 2, 2)
+  let resultado = calcularPuntaje(0, 2, 1)
   assert.equal(resultado, 20,`calcularPuntaje(0, 2, 1) debería retornar 20 pero fue ${resultado}`);
 })
 
