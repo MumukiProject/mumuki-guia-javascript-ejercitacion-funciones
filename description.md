@@ -1,1 +1,1 @@
-_Riiing_ :timer: ¡Hora de practica con funciones!
+_Riiing_ :timer: ¡Hora de practicar con funciones!
