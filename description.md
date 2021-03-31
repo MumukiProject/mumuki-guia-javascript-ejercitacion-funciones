@@ -1,1 +1,1 @@
-Ejercitación de funciones
+¡:timer: Hora de practica con funciones!
