@@ -1,4 +1,4 @@
- >Definí una función `calcularAreaTriangulo` que tome como argumentos la base y la altura de un triángulo y devuelva el área del mismo
+> Definí una función `calcularAreaTriangulo` que tome por parámetros la base y la altura de un triángulo y devuelva el área del mismo
 
 >
 ```javascript

@@ -1,4 +1,4 @@
-> FPS son _cuadros por segundo_ (_frames per second_). Definí una una función `calcularFPS` que tome como argumentos una cantidad de cuadros por segundo y una cantidad de minutos, y devuelva cuántos cuadros hubo en esa cantidad de minutos
+> FPS son _cuadros por segundo_ (_frames per second_). Definí una una función `calcularFPS` que reciba como argumentos una cantidad de cuadros por segundo y una cantidad de minutos, y devuelva cuántos cuadros hubo en esa cantidad de minutos
 >
 ```javascript
 ム calcularFPS(1, 1)

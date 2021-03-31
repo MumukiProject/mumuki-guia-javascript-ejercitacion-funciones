@@ -1,4 +1,4 @@
->Definí una función `dividir` que tome como argumentos dos números y devuelva la división de ellos
+> Definí una función `dividir` que reciba como argumentos dos números y devuelva la división de ellos
 
 >
 ```javascript

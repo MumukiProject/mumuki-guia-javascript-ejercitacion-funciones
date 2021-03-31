@@ -1,4 +1,4 @@
-> Defini una función `sumarPorcentaje` que tome como argumentos un número y un porcentaje y devuelva la suma de dicho número con la de su porcentaje. Usar la función `calcularPorcentaje` para obtener el porcentaje a sumar
+> Definí una función `sumarPorcentaje` que tome como argumentos un número y un porcentaje y devuelva la suma de dicho número con la de su porcentaje. Usar la función `calcularPorcentaje` para obtener el porcentaje a sumar
 > 
 ```javascript
 ム sumarPorcentaje(100, 15)
